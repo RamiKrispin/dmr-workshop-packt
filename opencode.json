@@ -5,21 +5,18 @@
       "npm": "@ai-sdk/openai-compatible",
       "name": "Docker Model Runner",
       "options": {
-        // Case using inside a container:
-        // "baseURL": "http://model-runner.docker.internal/engines/v1",
-        // Otherwise use the following base URL:
         "baseURL": "http://localhost:12434/engines/v1",
         "apiKey": "docker"
       },
       "models": {
         "ai/gpt-oss:20B-UD-Q8_K_XL": {
-          "name": "ai/gpt-oss:20B-UD-Q8_K_XL"
+          "name": "GPT-OSS:20B"
         },
-        "ai/llama3.2:3B-Q4_0": {
-          "name": "ai/llama3.2:3B-Q4_0"
+        "ai/llama3.2:1B-Q4_0": {
+          "name": "llama3.2:1B"
         },
         "ai/devstral-small:24B": {
-          "name": "ai/devstral-small:24B"
+          "name": "Devstral-Small:24B"
         }
       }
     }
