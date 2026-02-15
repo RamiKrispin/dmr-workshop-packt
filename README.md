@@ -1,17 +1,18 @@
 # Running LLMs Locally with Docker Model Runner
 
-Materials for the "Running LLMs Locally with Docker Model Runner" workshop at the [ODSC AI West 2025](https://odsc.ai/) conference. This workshop is based on a set of tutorials from the [AIOps Newsletter](https://theaiops.substack.com/). 
+Materials for the "Hands-On: Running Local LLMs with Docker Model Runner" workshop by [Packt Publishing](https://www.packtpub.com/en-us/subscribe). This workshop is based on a set of tutorials from the [AIOps Newsletter](https://theaiops.substack.com/). 
 
 The [Docker Model Runner](https://docs.docker.com/ai/model-runner/) (DMR) - a Docker Desktop feature that enables the run of Large Language Models natively with Docker Desktop.
 
 Session info: https://odsc.ai/speakers-portfolio/running-llms-locally-with-docker-model-runner/
 
 
-When 📆: October 30th, 2025
+When 📆: February 15th, 7 AM PST / 10 AM EST
 
 <figure>
- <img src="assets/bay_area_map.png" width="100%" align="center"/></a>
-<figcaption> Bay Area 3D map (created with Midjourney)</figcaption>
+ <img src="assets/dmr-workshop.png" width="100%" align="center"/></a>
+<figcaption> 
+Humpback whale floating in the sky (created with Midjourney)</figcaption>
 </figure>
 
 <br>
